@@ -1,7 +1,7 @@
 This project is used to check whether, given an array of strings, any word in the array is an anagram of another string in the array.
 
 ### Algorithm
-As you may see in the main.js, firstly we sort alphabeticaly each string in the array and then put each string in a hash table. 
+As you may see in the `main.js`, firstly we sort alphabeticaly each string in the array and then put each string in a hash table. 
 If the spot in the hash table is already taken, then that is an anagram.
 
 
